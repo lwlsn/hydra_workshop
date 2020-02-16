@@ -1,8 +1,9 @@
 # hydra_workshop
 
 
+~~ hello  ~~
 
-#resources
+# resources used
 
 https://github.com/khoparzi/khoparzi.github.io/blob/master/livecode-resources/Hydra_Handout.pdf
 
